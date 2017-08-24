@@ -1,0 +1,43 @@
+.g-brd-blueviolet-v5 {
+    border-color: red !important;
+}
+
+#team {
+    padding-bottom: 0 !important;
+    margin-bottom: 0;
+}
+
+#roadmap {
+    padding-bottom: 50px;
+}
+
+#roadmap .g-bg-white, #roadmap {
+    background-color: #f1ebeb !important;
+}
+
+#roadmap .g-brd-gray-light-v5 {
+    border-color: #000 !important;
+}
+
+#roadmap .g-brd-black-v5 {
+    background-color: black !important;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+@media (min-width: 768px) {
+    .u-timeline-v2-wrap::before {
+        background-color: #000000;
+    }
+}
+
+#buy_tokens {
+    background-color: #fafafa !important;
+    padding-top: 50px !important;
+}
+
+.g-pa-30 {
+    padding: 10px 20px !important;
+}
